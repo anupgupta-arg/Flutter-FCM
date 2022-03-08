@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749746863914",
+    "project_id": "notification-test-18195",
+    "storage_bucket": "notification-test-18195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749746863914:android:28c8171b0908542f9d6853",
+        "android_client_info": {
+          "package_name": "com.geekguns.fcm_msg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749746863914-9pq5653uqemftmblmoqordr9eklc935u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8bY50IEWCW0dwX-itGe89RU6sbwzbrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749746863914-9pq5653uqemftmblmoqordr9eklc935u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/geekguns/fcm_msg/BuildConfig.java
+ com.geekguns.fcm_msg.BuildConfig
